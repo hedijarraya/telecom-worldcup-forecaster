@@ -1,0 +1,41 @@
+match_id,date,heure_locale,fuseau_horaire,heure_utc,pays_a,pays_b,ville,stade,phase,importance
+1,2026-06-11,20:00,America/Toronto,00:00,Germany,Morocco,Toronto,BMO Field,Group Stage,1
+2,2026-06-12,20:00,America/New_York,00:00,Brazil,Germany,New York,MetLife Stadium,Semi Final,4
+3,2026-06-12,17:00,America/New_York,21:00,Tunisia,Spain,Miami,Hard Rock Stadium,Quarter Final,3
+4,2026-06-12,17:00,America/New_York,21:00,Germany,Argentina,Miami,Hard Rock Stadium,Quarter Final,3
+5,2026-06-13,20:00,America/Los_Angeles,03:00,Morocco,France,Los Angeles,SoFi Stadium,Group Stage,1
+6,2026-06-13,14:00,America/New_York,18:00,Germany,USA,New York,MetLife Stadium,Round of 16,2
+7,2026-06-14,20:00,America/Chicago,01:00,Spain,Germany,Dallas,AT&T Stadium,Round of 16,2
+8,2026-06-14,20:00,America/Chicago,01:00,Brazil,Argentina,Dallas,AT&T Stadium,Quarter Final,3
+9,2026-06-18,14:00,America/New_York,18:00,Netherlands,Spain,Miami,Hard Rock Stadium,Group Stage,1
+10,2026-06-18,14:00,America/Mexico_City,19:00,Spain,France,Mexico City,Estadio Azteca,Group Stage,1
+11,2026-06-18,17:00,America/New_York,21:00,Italy,Brazil,Miami,Hard Rock Stadium,Quarter Final,3
+12,2026-06-19,14:00,America/Mexico_City,19:00,England,Germany,Mexico City,Estadio Azteca,Group Stage,1
+13,2026-06-21,20:00,America/Toronto,00:00,Tunisia,Belgium,Toronto,BMO Field,Round of 16,2
+14,2026-06-21,17:00,America/Los_Angeles,00:00,Portugal,Netherlands,Los Angeles,SoFi Stadium,Round of 16,2
+15,2026-06-21,14:00,America/Toronto,18:00,Brazil,Netherlands,Toronto,BMO Field,Group Stage,1
+16,2026-06-24,20:00,America/New_York,00:00,Netherlands,Argentina,New York,MetLife Stadium,Semi Final,4
+17,2026-06-25,17:00,America/Chicago,22:00,USA,Portugal,Dallas,AT&T Stadium,Group Stage,1
+18,2026-06-26,14:00,America/New_York,18:00,France,England,New York,MetLife Stadium,Group Stage,1
+19,2026-06-26,17:00,America/Toronto,21:00,Italy,France,Toronto,BMO Field,Group Stage,1
+20,2026-06-28,20:00,America/Los_Angeles,03:00,USA,Italy,Los Angeles,SoFi Stadium,Quarter Final,3
+21,2026-06-28,14:00,America/New_York,18:00,Brazil,England,New York,MetLife Stadium,Quarter Final,3
+22,2026-06-28,14:00,America/Chicago,19:00,France,Netherlands,Dallas,AT&T Stadium,Group Stage,1
+23,2026-06-28,17:00,America/Toronto,21:00,Belgium,England,Toronto,BMO Field,Group Stage,1
+24,2026-06-29,14:00,America/New_York,18:00,Tunisia,Italy,Miami,Hard Rock Stadium,Group Stage,1
+25,2026-06-30,20:00,America/Toronto,00:00,Tunisia,USA,Toronto,BMO Field,Quarter Final,3
+26,2026-06-30,20:00,America/New_York,00:00,Italy,Spain,Miami,Hard Rock Stadium,Group Stage,1
+27,2026-07-04,14:00,America/Toronto,18:00,Portugal,Brazil,Toronto,BMO Field,Round of 16,2
+28,2026-07-04,14:00,America/Mexico_City,19:00,Tunisia,Brazil,Mexico City,Estadio Azteca,Group Stage,1
+29,2026-07-04,17:00,America/Mexico_City,22:00,Brazil,Belgium,Mexico City,Estadio Azteca,Group Stage,1
+30,2026-07-04,17:00,America/Mexico_City,22:00,Netherlands,Germany,Mexico City,Estadio Azteca,Round of 16,2
+31,2026-07-06,14:00,America/New_York,18:00,Portugal,Belgium,Miami,Hard Rock Stadium,Group Stage,1
+32,2026-07-07,14:00,America/New_York,18:00,Tunisia,Germany,New York,MetLife Stadium,Final,5
+33,2026-07-10,20:00,America/New_York,00:00,Argentina,Tunisia,New York,MetLife Stadium,Semi Final,4
+34,2026-07-10,14:00,America/Toronto,18:00,Morocco,Netherlands,Toronto,BMO Field,Round of 16,2
+35,2026-07-12,20:00,America/Chicago,01:00,Portugal,France,Dallas,AT&T Stadium,Semi Final,4
+36,2026-07-13,14:00,America/Mexico_City,19:00,Italy,Germany,Mexico City,Estadio Azteca,Group Stage,1
+37,2026-07-13,14:00,America/Mexico_City,19:00,Portugal,Spain,Mexico City,Estadio Azteca,Round of 16,2
+38,2026-07-14,17:00,America/Mexico_City,22:00,Argentina,England,Mexico City,Estadio Azteca,Group Stage,1
+39,2026-07-15,14:00,America/Chicago,19:00,Morocco,Portugal,Dallas,AT&T Stadium,Semi Final,4
+40,2026-07-16,17:00,America/New_York,21:00,France,Brazil,New York,MetLife Stadium,Group Stage,1
